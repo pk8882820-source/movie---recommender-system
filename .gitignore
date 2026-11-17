@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.DS_Store
+.ipynb_checkpoints/
+# raw Kaggle files are large; only the processed CSV is committed
+data/raw/
